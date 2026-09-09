@@ -13,8 +13,9 @@
 
 Open-source practice information management systems (PIMS) and electronic medical records for veterinary clinics.
 
+- [OpenVPMS](https://www.openvpms.org/) - The original open-source veterinary practice management system, still in active development.
 - [Yosemite Crew](https://github.com/YosemiteCrew/Yosemite-Crew) - Practice management system with mobile and desktop apps, self-hostable under AGPL-3.0.
-- [OpenVPM](https://github.com/evangauer/openvpm) - API-first practice management system with a built-in AI agent.
+- [OpenVPM](https://github.com/evangauer/openvpm) - API-first practice management system with a built-in AI agent. Not affiliated with OpenVPMS above, despite the near-identical name.
 - [ababu](https://github.com/oldauntie/ababu) - Problem-oriented, multi-platform practice management software.
 - [vetManager](https://github.com/mtenrero/vetManager) - Distributed, fault-tolerant service for clients, pets, inventory, appointments, and diagnoses.
 - [vet4pet](https://github.com/aarkerio/vet4pet) - Rails and React clinic management solution.
