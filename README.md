@@ -24,6 +24,7 @@ Open-source practice information management systems (PIMS) and electronic medica
 
 ## Shelter & Rescue Management
 
+- [Animal Shelter Manager](https://github.com/sheltermanager/asm3) - Long-running shelter management system tracking intake, medical records, and adoptions.
 - [RefuPet](https://github.com/hackapet-project/petsync_web_V2) - Shelter operations platform built with Angular, Django, and Docker.
 - [notfellchen](https://github.com/moan0s/notfellchen) - App for organizing and searching foster animals.
 
